@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-#By @venomXCRAZY
+#By Indian Watchdogs @Indian_Hackers_Team
 
 import telebot
 import subprocess
@@ -8,10 +8,10 @@ import datetime
 import os
 
 # insert your Telegram bot token here
-bot = telebot.TeleBot('TOKEN')
+bot = telebot.TeleBot('7445657393:AAEsSPZ56MlRz5gKIkFfHIfFci8K1HyV5JQ')
 
 # Admin user IDs
-admin_id = ["YOUR ID"]
+admin_id = ["927996339"]
 
 # File to store allowed user IDs
 USER_FILE = "users.txt"
